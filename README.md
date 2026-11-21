@@ -194,10 +194,7 @@ Core libraries used:
 
 And very special thanks to [ariel](https://github.com/google-marketing-solutions/ariel) from which we leveraged parts of their code base.
 
-# License
-
-See [license](./LICENSE)
 
 # Contact
 
-Email address: Jordi Mas: jmas@softcatala.org
+Email address: Manish Nehra: mnehra338@gmail.com

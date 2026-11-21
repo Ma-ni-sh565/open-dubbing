@@ -9,9 +9,6 @@ It is designed as a command line tool.
 
 At the moment, it is pure *experimental* and an excuse to help me to understand better STT, TTS and translation systems combined together.
 
-_If you want to see a live system running you can do it at https://www.softcatala.org/doblatge/ (accepts only English and Spanish an dubs only to Catalan).
-It combines this project, https://github.com/Softcatala/subdub-editor (an editor) and https://github.com/Softcatala/dubbing-service (web service)._
-
 # Features
 
 * Built on top of open source models and able to run it locally
